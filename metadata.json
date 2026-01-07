@@ -1,0 +1,5 @@
+{
+  "name": "Article Reader",
+  "description": "Transform Twitter/X Articles into distraction-free PDF documents.",
+  "requestFramePermissions": []
+}
